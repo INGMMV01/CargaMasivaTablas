@@ -1,0 +1,7 @@
+C:\Users\kitos\Documents\GitHub\CargaMasivaTablas\obj\Debug\CargaMasivaTablas.exe
+C:\Users\kitos\Documents\GitHub\CargaMasivaTablas\obj\Debug\CargaMasivaTablas.pdb
+C:\Users\kitos\Documents\GitHub\CargaMasivaTablas\bin\Debug\CargaMasivaTablas.exe
+C:\Users\kitos\Documents\GitHub\CargaMasivaTablas\bin\Debug\CargaMasivaTablas.pdb
+C:\Users\kitos\Documents\GitHub\CargaMasivaTablas\obj\Debug\CargaMasivaTablas.csprojResolveAssemblyReference.cache
+C:\Users\kitos\Documents\GitHub\CargaMasivaTablas\obj\Debug\CargaMasivaTablas.frmMain.resources
+C:\Users\kitos\Documents\GitHub\CargaMasivaTablas\obj\Debug\CargaMasivaTablas.csproj.GenerateResource.Cache
